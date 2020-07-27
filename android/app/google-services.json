@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "549582785357",
+    "firebase_url": "https://rns-app-f0c4b.firebaseio.com",
+    "project_id": "rns-app-f0c4b",
+    "storage_bucket": "rns-app-f0c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:549582785357:android:8e31440f6d3c2af2f90504",
+        "android_client_info": {
+          "package_name": "com.example.rns_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "549582785357-5u1ped9bnv7l2e8vpi3obur42p567gn9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rns_app",
+            "certificate_hash": "cd8a4d2346a4bd64882c590e853a8fff1681e54d"
+          }
+        },
+        {
+          "client_id": "549582785357-0jr96j8s0vtlch4mphne3vndltmapfdp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7sQlfrlbtIH8oCH5Bqgr0zq_qfMyY_XI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "549582785357-0jr96j8s0vtlch4mphne3vndltmapfdp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
